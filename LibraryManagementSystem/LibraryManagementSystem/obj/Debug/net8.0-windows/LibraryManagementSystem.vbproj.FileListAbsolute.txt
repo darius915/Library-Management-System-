@@ -1,0 +1,6 @@
+C:\Users\johnd\source\repos\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.Form1.resources
+C:\Users\johnd\source\repos\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.vbproj.GenerateResource.cache
+C:\Users\johnd\source\repos\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\source\repos\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\johnd\source\repos\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.AssemblyInfo.vb
+C:\Users\johnd\source\repos\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.vbproj.CoreCompileInputs.cache
